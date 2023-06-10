@@ -10,5 +10,21 @@ languageLinks.forEach(function(link) {
   var linkLangCode = link.href.substring(link.href.lastIndexOf('_') + 1, link.href.lastIndexOf('.'));
   if (linkLangCode === langCode) {
     link.classList.add('active');
+  } else {
+    link.classList.remove('active');
+  }
+});
+
+// Get the current section ID
+var sectionID = path.substring(path.lastIndexOf('#') + 1);
+
+// Find the corresponding section link and add the 'active' class
+var sectionLinks = document.querySelectorAll('.navbar a[href^="#"]');
+sectionLinks.forEach(function(link) {
+  var linkSectionID = link.getAttribute('href').substring(1);
+  if (linkSectionID === sectionID) {
+    link.classList.add('active');
+  } else {
+    link.classList.remove('active');
   }
 });
