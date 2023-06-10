@@ -28,16 +28,3 @@ languageLinks.forEach(link => {
     this.classList.add('active');
   });
 });
-In your CSS file (style.css), update the CSS rule for the active language link to set the color to red:
-css
-Copy code
-.language-navbar a.active {
-  color: red;
-}
-With these changes, the JavaScript code responsible for highlighting the active language link will be moved to a separate script.js file. The color of the active language link will be set to red using the CSS rule defined in the style.css file.
-
-
-
-
-
-
