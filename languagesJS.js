@@ -1,30 +1,30 @@
-// Get the current URL path
-var path = window.location.pathname;
+// Get the current language from the HTML tag
+const currentLanguage = document.documentElement.lang;
 
-// Get the language code from the URL
-var langCode = path.substring(path.lastIndexOf('_') + 1, path.lastIndexOf('.'));
+// Get all language links in the navigation bar
+const languageLinks = document.querySelectorAll('.navbar a[href^="index_"]');
 
-// Find the corresponding language link and add the 'active' class
-var languageLinks = document.querySelectorAll('.navbar a');
-languageLinks.forEach(function(link) {
-  var linkLangCode = link.href.substring(link.href.lastIndexOf('_') + 1, link.href.lastIndexOf('.'));
-  if (linkLangCode === langCode) {
+// Loop through each language link
+languageLinks.forEach(link => {
+  // Get the language code from the link's href attribute
+  const languageCode = link.getAttribute('href').split('_')[1].split('.')[0];
+
+  // Add the 'active' class to the current language link
+  if (languageCode === currentLanguage) {
     link.classList.add('active');
-  } else {
-    link.classList.remove('active');
   }
 });
 
-// Get the current section ID
-var sectionID = path.substring(path.lastIndexOf('#') + 1);
+// Get the current page's hash
+const currentHash = window.location.hash;
 
-// Find the corresponding section link and add the 'active' class
-var sectionLinks = document.querySelectorAll('.navbar a[href^="#"]');
-sectionLinks.forEach(function(link) {
-  var linkSectionID = link.getAttribute('href').substring(1);
-  if (linkSectionID === sectionID) {
+// Get all page links in the navigation bar
+const pageLinks = document.querySelectorAll('.navbar a[href^="#"]');
+
+// Loop through each page link
+pageLinks.forEach(link => {
+  // Add the 'active' class to the current page link
+  if (link.getAttribute('href') === currentHash) {
     link.classList.add('active');
-  } else {
-    link.classList.remove('active');
   }
 });
