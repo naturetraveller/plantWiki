@@ -18,14 +18,36 @@
     <a href="#plants">Plants</a>
     <a href="#resources">Resources</a>
   </nav>
-
-  <nav class="language-navbar">
-    <a href="index.html">DE</a>
-    <a href="index_en.html" class="active">EN</a>
-    <a href="index_fr.html">FR</a>
-    <a href="index_it.html">IT</a>
-    <a href="index_uk.html">UK</a>
-  </nav>
+  
+  <nav class="language-navbar" id="language-navbar"></nav>
+  
+  <script>
+    // Define the language versions and their URLs
+    const languages = [
+      { code: 'de', label: 'DE', url: 'index.html' },
+      { code: 'en', label: 'EN', url: 'index_en.html' },
+      { code: 'fr', label: 'FR', url: 'index_fr.html' },
+      { code: 'it', label: 'IT', url: 'index_it.html' },
+      { code: 'uk', label: 'UK', url: 'index_uk.html' }
+    ];
+  
+    // Get the language navbar element
+    const languageNavbar = document.getElementById('language-navbar');
+  
+    // Generate the language navigation links
+    languages.forEach(language => {
+      const link = document.createElement('a');
+      link.href = language.url;
+      link.textContent = language.label;
+  
+      // Add the 'active' class to the current language
+      if (language.code === document.documentElement.lang) {
+        link.classList.add('active');
+      }
+  
+      languageNavbar.appendChild(link);
+    });
+  </script>
 
   <section id="home">
     <h2>About this Page</h2>
