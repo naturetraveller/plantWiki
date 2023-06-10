@@ -1,30 +1,32 @@
-// Get the current language from the HTML tag
-const currentLanguage = document.documentElement.lang;
+// Function to add the 'active' class to the active language link
+function highlightActiveLanguage() {
+  const currentLanguage = document.documentElement.lang;
+  const languageLinks = document.querySelectorAll('.navbar a[href^="index_"]');
+  
+  languageLinks.forEach(link => {
+    const languageCode = link.getAttribute('href').split('_')[1].split('.')[0];
+    if (languageCode === currentLanguage) {
+      link.classList.add('active');
+    } else {
+      link.classList.remove('active');
+    }
+  });
+}
 
-// Get all language links in the navigation bar
-const languageLinks = document.querySelectorAll('.navbar a[href^="index_"]');
+// Function to add the 'active' class to the active page link
+function highlightActivePage() {
+  const currentHash = window.location.hash;
+  const pageLinks = document.querySelectorAll('.navbar a[href^="#"]');
+  
+  pageLinks.forEach(link => {
+    if (link.getAttribute('href') === currentHash) {
+      link.classList.add('active');
+    } else {
+      link.classList.remove('active');
+    }
+  });
+}
 
-// Loop through each language link
-languageLinks.forEach(link => {
-  // Get the language code from the link's href attribute
-  const languageCode = link.getAttribute('href').split('_')[1].split('.')[0];
-
-  // Add the 'active' class to the current language link
-  if (languageCode === currentLanguage) {
-    link.classList.add('active');
-  }
-});
-
-// Get the current page's hash
-const currentHash = window.location.hash;
-
-// Get all page links in the navigation bar
-const pageLinks = document.querySelectorAll('.navbar a[href^="#"]');
-
-// Loop through each page link
-pageLinks.forEach(link => {
-  // Add the 'active' class to the current page link
-  if (link.getAttribute('href') === currentHash) {
-    link.classList.add('active');
-  }
-});
+// Call the functions to highlight the active language and active page on page load
+highlightActiveLanguage();
+highlightActivePage();
