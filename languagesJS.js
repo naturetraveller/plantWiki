@@ -1,15 +1,14 @@
-// JavaScript code to handle language switching
-document.addEventListener("DOMContentLoaded", function() {
-  var urlParams = new URLSearchParams(window.location.search);
-  var lang = urlParams.get("lang");
-  
-  if (lang === "en") {
-    // Code zum Anzeigen der englischen Inhalte hier
-  } else if (lang === "fr") {
-    // Code zum Anzeigen der französischen Inhalte hier
-  } else if (lang === "it") {
-    // Code zum Anzeigen der italienischen Inhalte hier
-  } else {
-    // Standardcode zum Anzeigen der deutschen Inhalte hier
+// Get the current URL path
+var path = window.location.pathname;
+
+// Get the language code from the URL
+var langCode = path.substring(path.lastIndexOf('_') + 1, path.lastIndexOf('.'));
+
+// Find the corresponding language link and add the 'active' class
+var languageLinks = document.querySelectorAll('.navbar a');
+languageLinks.forEach(function(link) {
+  var linkLangCode = link.href.substring(link.href.lastIndexOf('_') + 1, link.href.lastIndexOf('.'));
+  if (linkLangCode === langCode) {
+    link.classList.add('active');
   }
 });
