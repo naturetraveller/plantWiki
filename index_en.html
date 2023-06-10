@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Systematics of Plants in Central Switzerland</title>
   <link href="style.css" rel="stylesheet" type="text/css" media="all">
-  <script src="LanguagesJS.js"></script>
 </head>
 <body>
   <header>
@@ -18,55 +17,33 @@
     <a href="#plants">Plants</a>
     <a href="#resources">Resources</a>
   </nav>
-  
-  <nav class="language-navbar" id="language-navbar"></nav>
-  
-  <script>
-    // Define the language versions and their URLs
-    const languages = [
-      { code: 'de', label: 'DE', url: 'index.html' },
-      { code: 'en', label: 'EN', url: 'index_en.html' },
-      { code: 'fr', label: 'FR', url: 'index_fr.html' },
-      { code: 'it', label: 'IT', url: 'index_it.html' },
-      { code: 'uk', label: 'UK', url: 'index_uk.html' }
-    ];
-  
-    // Get the language navbar element
-    const languageNavbar = document.getElementById('language-navbar');
-  
-    // Generate the language navigation links
-    languages.forEach(language => {
-      const link = document.createElement('a');
-      link.href = language.url;
-      link.textContent = language.label;
-  
-      // Add the 'active' class to the current language
-      if (language.code === document.documentElement.lang) {
-        link.classList.add('active');
-      }
-  
-      languageNavbar.appendChild(link);
-    });
-  </script>
+
+  <nav class="language-navbar">
+    <a href="index.html" class="active">EN</a>
+    <a href="index_de.html">DE</a>
+    <a href="index_fr.html">FR</a>
+    <a href="index_it.html">IT</a>
+    <a href="index_uk.html">UK</a>
+  </nav>
 
   <section id="home">
     <h2>About this Page</h2>
-    <p>Welcome to my index page on the systematics of plants in Central Switzerland. On this page, I will gradually present the systematics of plants in this region. My focus will initially be on the plants native to Central Switzerland.</p>
+    <p>Welcome to my index page on the systematics of plants in Central Switzerland. On this page, I will gradually present the systematic classification of plants in this region. Initially, my focus will be on the plants found in Central Switzerland.</p>
   </section>
 
   <section id="systematics">
     <h2>Systematics of Plants</h2>
-    <p>Here, I will explain the fundamental levels of plant systematics, starting from the Kingdom and going through various taxonomic ranks such as Classes, Orders, Families, Genera, and Species.</p>
+    <p>Here, I will explain the fundamental levels of plant systematics, starting from the kingdom and going through various taxonomic ranks such as classes, orders, families, genera, and species.</p>
   </section>
 
   <section id="plants">
-    <h2>Plants in Central Switzerland</h2>
-    <p>In this section, I will present a selection of plant species that are native to Central Switzerland. I will provide information about their characteristics, distribution areas, and, if applicable, their ecological significance.</p>
+    <h2>Plants of Central Switzerland</h2>
+    <p>In this section, I will showcase a selection of plant species native to Central Switzerland. I will provide information about their characteristics, distribution areas, and, if applicable, their ecological significance.</p>
   </section>
 
   <section id="resources">
     <h2>Resources</h2>
-    <p>In this section, I will list useful resources such as books, websites, and databases that offer additional information on the systematics of plants and plant species in Central Switzerland.</p>
+    <p>In this section, I will list useful resources such as books, websites, and databases that offer further information on the systematics of plants and plant species in Central Switzerland.</p>
   </section>
 
   <footer>
