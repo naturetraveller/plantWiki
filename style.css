@@ -23,3 +23,30 @@ header {
   color: #FFF;
   background-color: #006400; /* Dark green */
 }
+
+
+.language-navbar {
+  /* Styles for the language navigation bar */
+  /* Adjust the styles based on your preferences */
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: #f1f1f1;
+  padding: 10px;
+  display: flex;
+}
+
+.language-navbar a {
+  /* Styles for language navigation links */
+  /* Adjust the styles based on your preferences */
+  margin-right: 10px;
+  color: #333;
+  text-decoration: none;
+}
+
+.language-navbar a.active {
+  /* Styles for the active language link */
+  /* Adjust the styles based on your preferences */
+  font-weight: bold;
+  color: darkgreen;
+}
