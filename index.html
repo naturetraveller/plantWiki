@@ -16,10 +16,10 @@
     <a href="#systematics">Systematik</a>
     <a href="#plants">Pflanzen</a>
     <a href="#resources">Ressourcen</a>
-    <a href="index-en.html">English</a>
-    <a href="index-fr.html">Français</a>
-    <a href="index-it.html">Italiano</a>
-    <a href="index-uk.html">Українська</a>
+    <a href="index_en.html">English</a>
+    <a href="index_fr.html">Français</a>
+    <a href="index_it.html">Italiano</a>
+    <a href="index_uk.html">Українська</a>
   </nav>
 
   <section id="home">
@@ -46,7 +46,12 @@
     <p>&copy; 2023 Alain Leonid Häller. Alle Rechte vorbehalten.</p>
   </footer>
 
-  <script src="script.js"></script>
-</body>
+  <script src="languagesJS.js"></script>
+  <script>
+    // Get the current URL path
+    var path = window.location.pathname;
 
-</html>
+    // Get the language code from the URL
+    var langCode = path.substring(path.lastIndexOf('_') + 1, path.lastIndexOf('.'));
+
+    // Find the corresponding language link and add the 'active' class
