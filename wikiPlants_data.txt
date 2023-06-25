@@ -1,8 +1,8 @@
 Latin Name: Abies alba
 Deutscher Name: Weisstanne
 Gattung: Abies
-Familie: None
-Ordnung: None
+Familie: test 2
+Ordnung: test 23
 Klasse: None
 Stamm: None
 Reich: None
@@ -1036,6 +1036,7800 @@ Reich: None
 Latin Name: None
 Deutscher Name: None
 Gattung: Azolla
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Baldellia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ballota
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Bambusa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Barbarea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Bartsia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Bassia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Bellis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Berardia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Berberis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Bergenia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Berteroa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Berula
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Beta
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Betula
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Bidens
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Bifora
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Biscutella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Bituminaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Blackstonia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Blechnum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Blitum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Blysmus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Bolboschoenus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Borago
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Bothriochloa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Botrychium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Brachypodium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Brassica
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Briza
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Bromus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Broussonetia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Brunnera
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Bryonia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Buddleja
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Bufonia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Buglossoides
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Bulbocodium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Bunias
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Bunium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Buphthalmum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Bupleurum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Butomus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Buxus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cabomba
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Calamagrostis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Calamintha
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Caldesia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Calendula
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Calepina
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Calla
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Callianthemum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Callistephus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Callitriche
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Calluna
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Caltha
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Calystegia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Camelina
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Camellia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Campanula
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cannabis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Capparis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Capsella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Capsicum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Caragana
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cardamine
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cardaminopsis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cardaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Carduus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Carex
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Carlina
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Carpesium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Carpinus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Carthamus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Carum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Caryopteris
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Castanea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Catabrosa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Catalpa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Catananche
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Catapodium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Caucalis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Celastrus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Celtis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Centaurea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Centaurium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Centranthus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cephalanthera
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cephalaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cerastium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ceratophyllum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ceratostigma
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cercidiphyllum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cercis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cerinthe
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Chaenomeles
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Chaenorrhinum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Chaenostoma
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Chaerophyllum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Chamaecyparis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Chamaecytisus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Chamaemelum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Chamorchis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Chara
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cheilanthes
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Chelidonium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Chenopodium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Chimaphila
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Chondrilla
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Chorispora
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Chrysopogon
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Chrysosplenium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cicer
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cicerbita
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cichorium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cicuta
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cinnamomum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Circaea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cirsium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cistus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Citrullus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cladium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Claytonia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cleistogenes
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Clematis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cleome
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Clerodendrum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Clinopodium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Clypeola
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cnicus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cnidium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cochlearia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Coeloglossum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Coincya
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Colchicum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Coleostephus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Collomia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Colutea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Commelina
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Conium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Conopodium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Conringia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Consolida
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Convallaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Convolvulus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Conyza
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Corallorhiza
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Coreopsis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Coriandrum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cornus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Coronilla
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Coronopus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Corrigiola
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cortaderia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cortusa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Corydalis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Corylus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cosmos
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cotinus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cotoneaster
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cotula
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Crassula
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Crataegus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Crepis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Crocus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Crucianella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cruciata
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Crupina
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cryptogramma
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cucubalus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cucumis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cucurbita
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cupressus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cuscuta
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cyclamen
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cydonia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cylindropuntia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cymbalaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cynara
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cynodon
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cynoglossum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cynosurus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cyperus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cypripedium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cyrtomium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cystopteris
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cytinus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cytisophyllum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Cytisus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Dactylis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Dactylorhiza
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Danthonia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Daphne
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Datura
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Daucus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Delosperma
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Delphinium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Deschampsia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Descurainia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Deutzia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Dianthus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Dichanthelium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Dichondra
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Dictamnus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Digitalis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Digitaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Diospyros
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Diphasiastrum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Diplotaxis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Dipsacus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Dittrichia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Doronicum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Dorycnium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Draba
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Dracocephalum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Dracunculus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Drosera
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Dryas
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Dryopteris
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Duchesnea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ecballium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Echinochloa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Echinocystis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Echinops
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Echium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Elaeagnus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Elatine
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Eleocharis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Eleusine
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Elodea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Elymus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Elyna
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Empetrum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ephedra
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Epilobium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Epimedium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Epipactis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Epipogium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Equisetum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Eragrostis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Eranthis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Erica
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Erigeron
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Erinus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Eriobotrya
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Eriophorum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Eritrichium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Erodium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Erophila
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Eruca
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Erucastrum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Eryngium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Erysimum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Erythronium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Eschscholzia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Euclidium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Euonymus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Eupatorium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Euphorbia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Euphrasia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Fagopyrum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Fagus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Falcaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Fallopia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ferula
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ferulago
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Festuca
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ficus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Filago
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Filipendula
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Fimbristylis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Foeniculum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Forsythia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Fourraea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Fragaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Frangula
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Fraxinus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Fritillaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Fumana
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Fumaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Gagea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Galanthus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Galega
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Galeopsis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Galinsoga
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Galium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Gaudinia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Genista
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Gentiana
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Geranium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Geum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ginkgo
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Gladiolus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Glaucium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Glebionis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Glechoma
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Gleditsia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Globularia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Glyceria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Glycine
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Glycyrrhiza
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Gnaphalium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Goodyera
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Gratiola
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Groenlandia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Guizotia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Gymnadenia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Gymnocarpium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Gypsophila
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hammarbya
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hedera
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hedysarum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Helianthemum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Helianthus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Helichrysum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Helictotrichon
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Heliopsis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Heliotropium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Helleborus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hemerocallis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hepatica
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Heracleum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Herminium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Herniaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hesperis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Heteropogon
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hibiscus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hieracium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hierochloë
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Himantoglossum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hippocrepis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hippophaë
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hippuris
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hirschfeldia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Holcus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Holosteum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Homogyne
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hordelymus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hordeum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Horminum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hornungia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hottonia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hugueninia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Humulus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Huperzia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hyacinthoides
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hydrangea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hydrocharis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hydrocotyle
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hygrophila
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hymenolobus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hyoscyamus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hypericum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hypochaeris
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Hyssopus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Iberis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ilex
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Illecebrum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Impatiens
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Inula
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ipomoea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Iris
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Isatis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Isoëtes
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Isolepis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Isopyrum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Iva
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Jasione
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Jasminum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Jovibarba
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Juglans
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Juncus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Juniperus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Kernera
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Kerria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Kickxia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Klasea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Knautia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Kobresia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Koeleria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Koelreuteria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Laburnum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lactuca
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lagarosiphon
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lagurus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lamium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lappula
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lapsana
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Larix
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Laserpitium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lathraea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lathyrus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Laurus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lavandula
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Leersia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Legousia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lemna
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lens
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Leontodon
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Leontopodium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Leonurus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lepidium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Leucanthemella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Leucanthemopsis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Leucanthemum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Leucojum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Levisticum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ligusticum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ligustrum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lilium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Limodorum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Limosella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Linaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lindernia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Linnaea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Linum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Liparis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Liquidambar
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Liriodendron
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Listera
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lithospermum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Littorella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lloydia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lobelia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lobularia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Loiseleuria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lolium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lomatogonium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lomelosia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lonicera
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lotus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ludwigia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lunaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lupinus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Luzula
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lycium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lycopersicon
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lycopodiella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lycopodium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lycopus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lysichiton
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lysimachia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Lythrum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Macleaya
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Magnolia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Mahonia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Maianthemum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Malaxis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Malcolmia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Malus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Malva
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Marrubium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Marsilea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Matricaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Matteuccia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Matthiola
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Mazus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Meconopsis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Medicago
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Melampyrum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Melica
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Melilotus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Melissa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Melittis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Mentha
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Menyanthes
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Mercurialis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Mespilus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Metasequoia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Meum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Mibora
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Micropus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Micropyrum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Milium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Mimulus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Minuartia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Mirabilis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Miscanthus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Misopates
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Moehringia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Moenchia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Molinia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Mollugo
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Molopospermum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Moneses
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Monotropa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Montia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Morus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Muhlenbergia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Murbeckiella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Muscari
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Myagrum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Mycelis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Myosotis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Myosoton
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Myosurus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Myricaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Myriophyllum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Myrrhis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Myrtus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Najas
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Nandina
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Narcissus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Nardus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Nassella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Nasturtium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Nelumbo
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Neottia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Nepeta
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Neslia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Nicandra
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Nicotiana
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Nigella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Nigritella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Nitella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Nitellopsis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Nonea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Notholaena
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Nuphar
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Nymphaea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Nymphoides
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ocimum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Odontites
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Oenanthe
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Oenothera
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Olea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Omphalodes
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Onobrychis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ononis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Onopordum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Onosma
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ophioglossum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ophrys
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Oplismenus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Opuntia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Orchis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Oreochloa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Oreopteris
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Origanum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Orlaya
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ornithogalum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ornithopus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Orobanche
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Orthilia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Oryza
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Osmunda
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ostrya
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Osyris
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Oxalis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Oxyria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Oxytropis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Paederota
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Paeonia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Paliurus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pallenis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Panicum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Papaver
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Paradisea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Parietaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Paris
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Parnassia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Paronychia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Parrotia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Parthenocissus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Paspalum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pastinaca
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Paulownia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pedicularis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pennisetum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pentaglottis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Perovskia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Petasites
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Petrocallis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Petrorhagia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Petroselinum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Peucedanum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Phacelia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Phalaris
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Phaseolus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Phegopteris
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Philadelphus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Phillyrea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Phleum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Phlox
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Phragmites
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Phuopsis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Phygelius
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Phyllitis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Phyllostachys
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Physalis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Physocarpus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Physoplexis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Physospermum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Physostegia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Phyteuma
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Phytolacca
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Picea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Picris
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pilularia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pimpinella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pinguicula
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pinus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Piptatherum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pistacia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pistia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pisum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pittosporum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Plagiobothrys
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Plantago
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Platanthera
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Platanus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Platycladus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pleurospermum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Poa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Polemonium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Polycarpon
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Polycnemum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Polygala
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Polygonatum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Polygonum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Polypodium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Polypogon
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Polystichum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pontederia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Populus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Portulaca
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Potamogeton
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Potentilla
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Prenanthes
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Primula
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pritzelago
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Prunella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Prunus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pseudolysimachion
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pseudorchis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pseudosasa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pseudostellaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pseudotsuga
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pteridium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pteris
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pterocarya
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ptychotis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Puccinellia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pueraria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pulicaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pulmonaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pulsatilla
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Punica
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Puschkinia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pyracantha
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pyrola
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Pyrus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Quercus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Radiola
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ramonda
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ranunculus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Raphanus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Rapistrum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Reseda
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Reynoutria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Rhamnus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Rhaponticum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Rheum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Rhinanthus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Rhodiola
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Rhododendron
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Rhodothamnus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Rhus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Rhynchospora
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ribes
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ricinus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Robinia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Rorippa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Rosa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Rosmarinus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Rostraria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Rubia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Rubus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Rudbeckia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Rumex
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ruscus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ruta
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sagina
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sagittaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Salix
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Salpichroa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Salsola
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Salvia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Salvinia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sambucus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Samolus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sanguisorba
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sanicula
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Santolina
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Saponaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sarracenia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Satureja
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Saururus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Saussurea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Saxifraga
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Scabiosa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Scandix
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Scheuchzeria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Schoenoplectus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Schoenus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Scilla
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Scirpoides
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Scirpus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Scleranthus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sclerochloa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Scolymus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Scopolia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Scorzonera
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Scrophularia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Scutellaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Secale
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Securigera
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sedum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Selaginella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Selinum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sempervivum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Senecio
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sequoiadendron
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Serapias
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Serratula
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Seseli
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sesleria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Setaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sherardia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sibbaldia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sicyos
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sideritis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Silaum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Silene
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Silphium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Silybum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sinapis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sison
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sisymbrella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sisymbrium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sisyrinchium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Smyrnium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Solanum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Soldanella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Soleirolia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Solidago
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Soliva
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sonchus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sorbaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sorbus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sorghum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sparganium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Spartium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Spergula
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Spergularia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Spinacia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Spiraea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Spiranthes
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Spirodela
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Sporobolus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Stachys
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Staehelina
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Staphylea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Stellaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Stemmacantha
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Stipa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Stratiotes
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Streptopus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Subularia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Succisa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Succisella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Swertia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Symphoricarpos
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Symphytum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Syringa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tagetes
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tamus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tanacetum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Taraxacum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Taxodium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Taxus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Teesdalia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Telekia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Telephium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tellima
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tephroseris
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tetragonia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Teucrium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Thalictrum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Thelypteris
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Thesium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Thladiantha
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Thlaspi
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Thuja
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Thymelaea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Thymus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tilia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tofieldia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tolpis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tolypella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tordylium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Torilis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Toxicodendron
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tozzia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Trachycarpus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Trachystemon
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tradescantia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tragopogon
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tragus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Trapa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Traunsteinera
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tribulus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Trichophorum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Trientalis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Trifolium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Triglochin
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Trigonella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Trinia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tripleurospermum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Trisetum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Triticum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Trochiscanthes
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Trollius
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tropaeolum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tuberaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tulipa
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Turgenia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Turritis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Tussilago
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Typha
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ulex
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ulmus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Umbilicus
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Urtica
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Utricularia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Vaccaria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Vaccinium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Valeriana
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Valerianella
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Vallisneria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Ventenata
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Veratrum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Verbascum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Verbena
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Veronica
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Viburnum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Vicia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Vinca
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Vincetoxicum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Viola
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Viscum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Vitis
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Vulpia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Wahlenbergia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Waldsteinia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Willemetia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Wisteria
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Wolffia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Woodsia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Xanthium
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Xeranthemum
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Xerolekia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Yucca
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Zannichellia
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Zea
+Familie: None
+Ordnung: None
+Klasse: None
+Stamm: None
+Reich: None
+
+Latin Name: None
+Deutscher Name: None
+Gattung: Zinnia
 Familie: None
 Ordnung: None
 Klasse: None
