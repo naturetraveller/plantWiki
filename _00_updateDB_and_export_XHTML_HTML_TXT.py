@@ -9,7 +9,7 @@ scripts = [
     "02_deleteAll_rows.py", 
     "01A_initalImport_wikiPlants_excel.py", 
     "03A_export_wikiPlants_txt.py",
-    "03B_export_wikiPlants_html.py"
+    "03B_export_wikiPlants_html.py",
     "03C_export_wikiPlants_xhtml.py"
 ]
 
